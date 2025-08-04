@@ -7,6 +7,10 @@ It combines metric calculations, visual exploration, and business interpretation
 
 Note: Data is fictional
 
+## Files Included:
+- subscription_analysis_report (1).ipynb
+- df(1).csv
+
 ## Business Questions
 - Are subscribed users more likely to return products?
 - Do higher spenders subscribe more often?
@@ -18,3 +22,6 @@ Note: Data is fictional
 - Return behavior is more frequent among subscribers — potentially due to more frequent orders.
 - Men and women don't show different patterns in subscription behavior, though the effect size may vary.
 - Subscription correlates with higher engagement, as seen in order frequency and activity.
+
+## Conclusion
+This analysis provides practical insights into how subscriptions are associated with user actions like spending, returns, and demographics. It helps product or marketing teams understand who is subscribing and what that means for their behavior.
