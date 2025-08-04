@@ -17,7 +17,7 @@ The project contains SQL to reveal patterns, anomalies, and suspicious transacti
 
 Note: Data is fictional and used for educational and portfolio purposes.
 
-Key Questions Investigated
+## Key Questions Investigated
 
 The husband has recently noticed strange and unusually expensive purchases in their household bank statements. Concerned and confused, he has turned to us — data detectives — for help.
 
