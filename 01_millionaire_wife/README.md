@@ -1,4 +1,4 @@
-##Investigation of a Millionaire's Wife's Expenses
+## Investigation of a Millionaire's Wife's Expenses
 
 Project Overview
 
