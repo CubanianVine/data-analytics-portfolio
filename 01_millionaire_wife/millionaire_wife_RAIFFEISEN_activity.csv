@@ -1,0 +1,31 @@
+date,amount,operation
+2025-07-01,32.36,Cash withdrawal
+2025-07-01,204.03,Incoming transfer
+2025-07-03,216.79,Cash withdrawal
+2025-07-05,100.37,Transfer
+2025-07-05,15.83,Purchase
+2025-07-09,187.52,Cash withdrawal
+2025-07-12,219.46,Purchase
+2025-07-13,128.94,Purchase
+2025-07-19,70.65,Purchase
+2025-07-19,83.11,Transfer
+2025-07-19,27.85,Purchase
+2025-07-20,46.51,Purchase
+2025-07-21,85.39,Transfer
+2025-07-24,217.22,Cash withdrawal
+2025-07-24,113.27,Purchase
+2025-07-25,189.71,Transfer
+2025-07-27,82.37,Transfer
+2025-07-30,199.32,Purchase
+2025-07-31,205.72,Cash withdrawal
+2025-08-06,102.46,Cash withdrawal
+2025-08-07,162.32,Transfer
+2025-08-09,127.65,Purchase
+2025-08-12,93.32,Purchase
+2025-08-13,63.75,Purchase
+2025-08-15,53.48,Incoming transfer
+2025-08-15,42.96,Incoming transfer
+2025-08-16,29.09,Purchase
+2025-08-24,133.92,Purchase
+2025-08-24,126.08,Purchase
+2025-08-26,194.95,Purchase

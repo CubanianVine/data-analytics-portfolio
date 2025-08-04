@@ -1,0 +1,78 @@
+date,category,amount,location,item
+2025-07-01,Gadgets,150026.6,Moscow,Crystal-covered AirPods
+2025-07-01,Luxury Fashion,192231.46,Moscow,Versace scarf
+2025-07-01,Luxury Fashion,54508.67,Moscow,Gucci dress
+2025-07-02,Travel,44754.07553900142,Moscow,Private jet to Milan
+2025-07-03,Food & Dining,74153.22,Milan,Moon milk latte
+2025-07-03,Art,51171.2,Milan,Abstract duck painting
+2025-07-03,Fitness & Wellness,133970.51,Milan,Weight-loss tea subscription
+2025-07-04,Luxury Fashion,89450.75,Milan,Prada heels
+2025-07-04,Spa,926.87,Milan,5-hour massage
+2025-07-05,Travel,34110.026192564095,Milan,Private jet to Moscow
+2025-07-06,Home Decor,143000.2,Moscow,Swarovski toilet brush
+2025-07-06,Fitness & Wellness,61536.36,Moscow,Liposuction consultation
+2025-07-06,Spa,122411.72,Moscow,Diamond dust scrub
+2025-07-07,Luxury Fashion,64827.66,Moscow,Prada heels
+2025-07-07,Food & Dining,82254.72,Moscow,Caviar tasting set
+2025-07-08,Travel,21646.30921621627,Moscow,Private jet to Milan
+2025-07-09,Art,90395.32,Milan,Interactive NFT frame
+2025-07-09,Home Decor,21680.08,Milan,Swarovski toilet brush
+2025-07-10,Pets,133193.2,Milan,Mini pony for garden
+2025-07-11,Travel,32362.904730861763,Milan,Private jet to Moscow
+2025-07-12,Pets,199343.02,Moscow,Mini pony for garden
+2025-07-12,Food & Dining,26399.18,Moscow,Dinner at 3-Michelin star
+2025-07-12,Food & Dining,147217.95,Moscow,Moon milk latte
+2025-07-13,Fitness & Wellness,182366.56,Moscow,Weight-loss tea subscription
+2025-07-14,Travel,41432.53024143115,Moscow,Private jet to Tokyo
+2025-07-15,Luxury Fashion,161577.24,Tokyo,Versace scarf
+2025-07-16,Spa,46141.3,Tokyo,Aromatherapy retreat
+2025-07-16,Travel,129202.6,Tokyo,First-class ticket to {destination}
+2025-07-16,Travel,84183.87,Tokyo,First-class ticket to {destination}
+2025-07-17,Spa,43258.51,Tokyo,Aromatherapy retreat
+2025-07-18,Home Decor,63017.63,Tokyo,Marble soap dispenser
+2025-07-18,Luxury Fashion,82942.36,Tokyo,Chanel handbag
+2025-07-19,Gadgets,113418.09,Tokyo,Limited edition smartwatch
+2025-07-19,Travel,47393.18721407201,Tokyo,Private jet to Moscow
+2025-07-20,Art,67054.01,Moscow,Abstract duck painting
+2025-07-20,Fitness & Wellness,6236.76,Moscow,Liposuction consultation
+2025-07-21,Travel,20551.515938890345,Moscow,Private jet to Dubai
+2025-07-22,Travel,148827.87,Dubai,First-class ticket to {destination}
+2025-07-23,Travel,30105.669674705663,Dubai,Private jet to Milan
+2025-07-24,Spa,54287.68,Milan,Aromatherapy retreat
+2025-07-24,Home Decor,123319.33,Milan,Marble soap dispenser
+2025-07-24,Gadgets,179579.05,Milan,Crystal-covered AirPods
+2025-07-25,Gadgets,92193.71,Milan,Gold-plated iPhone
+2025-07-25,Spa,167526.83,Milan,Diamond dust scrub
+2025-07-26,Travel,25367.297908306056,Milan,Private jet to Paris
+2025-07-27,Travel,171977.84,Paris,First-class ticket to {destination}
+2025-07-28,Spa,75026.75,Paris,Diamond dust scrub
+2025-07-28,Jewelry,26073.37,Paris,Bvlgari ring
+2025-07-28,Luxury Fashion,2757.26,Paris,Prada heels
+2025-07-28,Travel,24515.849540480267,Paris,Private jet to Moscow
+2025-07-29,Fitness & Wellness,79103.09,Moscow,Weight-loss tea subscription
+2025-07-29,Food & Dining,5114.12,Moscow,Moon milk latte
+2025-07-30,Spa,188313.02,Moscow,Aromatherapy retreat
+2025-07-30,Fitness & Wellness,111091.48,Moscow,Yoga with dolphins
+2025-07-31,Luxury Fashion,5204.9,Moscow,Prada heels
+2025-07-31,Art,95189.25,Moscow,Neon flamingo sculpture
+2025-07-31,Luxury Fashion,175607.73,Moscow,Chanel handbag
+2025-08-01,Travel,37644.20893100828,Moscow,Private jet to Milan
+2025-08-02,Fitness & Wellness,14974.48,Milan,Liposuction consultation
+2025-08-03,Travel,29909.236226857945,Milan,Private jet to Paris
+2025-08-04,Food & Dining,84930.95,Paris,Moon milk latte
+2025-08-04,Gadgets,129097.67,Paris,Gold-plated iPhone
+2025-08-05,Home Decor,144741.05,Paris,Velvet cat bed
+2025-08-05,Gadgets,191803.33,Paris,Crystal-covered AirPods
+2025-08-05,Luxury Fashion,47116.96,Paris,Gucci dress
+2025-08-05,Travel,31984.303263540205,Paris,Private jet to Moscow
+2025-08-06,Gadgets,119016.05,Moscow,Crystal-covered AirPods
+2025-08-06,Food & Dining,114507.09,Moscow,Moon milk latte
+2025-08-07,Travel,41486.234654283195,Moscow,Private jet to Bali
+2025-08-08,Home Decor,186113.04,Bali,Velvet cat bed
+2025-08-09,Travel,25628.95625747097,Bali,Private jet to Paris
+2025-08-10,Food & Dining,149255.78,Paris,Moon milk latte
+2025-08-11,Jewelry,83026.66,Paris,Rolex watch
+2025-08-11,Travel,43731.62,Paris,Private jet to {destination}
+2025-08-12,Home Decor,139802.26,Paris,LED mirror with AI
+2025-08-12,Home Decor,139364.44,Paris,Marble soap dispenser
+2025-08-12,Spa,157324.33,Paris,Gold facial
