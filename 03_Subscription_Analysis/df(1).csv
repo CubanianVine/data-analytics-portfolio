@@ -1,0 +1,501 @@
+Name,Age,Gender,Country,Approx salary,Spending,Visit Monthly,Ammount of returns,Returns,Refund,Loyalty,Customer Score,Customer Segment,Subscription Status,VIP Channel
+Client 1,32,Male,Russia,43011,13949,1,1,Yes,2355,Not Loyal,2,B,Yes,No
+Client 2,62,Female,Kazakhstan,62602,5463,8,2,Yes,3508,Not Loyal,4,C,Yes,No
+Client 3,37,Female,Belarus,79798,30223,14,2,Yes,6990,Loyal,2,VIP,Yes,Yes
+Client 4,62,Male,Serbia,101891,3239,7,2,Yes,1979,Not Loyal,4,C,Yes,Yes
+Client 5,64,Male,Belarus,49213,3710,12,4,Yes,993,Not Loyal,3,C,Yes,No
+Client 6,40,Male,Russia,116380,33994,20,3,Yes,26278,Not Loyal,4,VIP,Yes,Yes
+Client 7,64,Male,Russia,79732,7561,5,2,Yes,4091,Not Loyal,4,C,No,Yes
+Client 8,33,Male,Ukraine,72103,3271,2,2,Yes,941,Not Loyal,3,C,No,No
+Client 9,32,Female,Kazakhstan,48219,18932,14,5,Yes,6318,Not Loyal,3,A,Yes,No
+Client 10,52,Female,Serbia,76723,6358,19,1,Yes,5965,Not Loyal,4,C,Yes,Yes
+Client 11,55,Female,Kazakhstan,30574,10225,7,0,No,0,Loyal,1,C,No,No
+Client 12,22,Female,Kazakhstan,83345,29355,13,5,Yes,3149,Loyal,2,VIP,Yes,Yes
+Client 13,28,Male,Russia,60782,19730,5,1,Yes,14610,Not Loyal,4,A,Yes,Yes
+Client 14,62,Female,Belarus,119997,23700,18,4,Yes,14743,Not Loyal,4,A,Yes,No
+Client 15,35,Male,Ukraine,61257,8418,7,5,Yes,5640,Not Loyal,4,C,No,Yes
+Client 16,49,Female,Kazakhstan,85794,32798,19,3,Yes,30998,Not Loyal,4,VIP,Yes,Yes
+Client 17,31,Male,Russia,29354,13118,7,0,No,0,Loyal,1,B,Yes,No
+Client 18,58,Female,Russia,29185,32441,18,1,Yes,22672,Not Loyal,4,VIP,Yes,Yes
+Client 19,44,Male,Belarus,49383,19640,1,5,Yes,16622,Not Loyal,4,A,Yes,No
+Client 20,39,Female,Ukraine,56642,9310,13,5,Yes,8221,Not Loyal,4,C,No,Yes
+Client 21,52,Male,Kazakhstan,54655,15312,18,0,No,0,Loyal,1,B,No,Yes
+Client 22,18,Male,Russia,98265,9570,10,1,Yes,5651,Not Loyal,4,C,No,Yes
+Client 23,30,Female,Ukraine,82497,28821,12,3,Yes,16110,Not Loyal,4,VIP,Yes,Yes
+Client 24,54,Male,Serbia,91681,2591,1,5,Yes,1597,Not Loyal,4,C,No,Yes
+Client 25,66,Male,Serbia,95902,1078,1,0,No,0,Not Loyal,1,C,No,No
+Client 26,26,Male,Belarus,91746,3428,10,5,Yes,1656,Not Loyal,3,C,Yes,No
+Client 27,29,Male,Kazakhstan,36443,31446,16,2,Yes,22953,Not Loyal,4,VIP,Yes,Yes
+Client 28,51,Male,Belarus,117894,8886,8,4,Yes,7714,Not Loyal,4,C,Yes,Yes
+Client 29,21,Male,Belarus,104251,1957,4,4,Yes,1077,Not Loyal,4,C,Yes,No
+Client 30,23,Female,Kazakhstan,50333,24834,2,0,No,0,Not Loyal,1,A,Yes,No
+Client 31,23,Male,Serbia,32308,5448,7,4,Yes,2096,Not Loyal,3,C,Yes,No
+Client 32,38,Male,Ukraine,86459,10852,10,3,Yes,8384,Not Loyal,4,C,Yes,No
+Client 33,18,Female,Russia,75563,7527,1,2,Yes,6340,Not Loyal,4,C,No,No
+Client 34,35,Female,Ukraine,41549,20798,3,1,Yes,11049,Not Loyal,4,A,Yes,Yes
+Client 35,27,Female,Russia,51474,20407,1,4,Yes,12076,Not Loyal,4,A,Yes,Yes
+Client 36,44,Female,Russia,40544,34724,19,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 37,30,Female,Belarus,109060,6896,9,3,Yes,2102,Not Loyal,3,C,No,Yes
+Client 38,25,Female,Belarus,107369,13618,19,0,No,0,Loyal,1,B,No,Yes
+Client 39,55,Female,Russia,37934,31599,12,3,Yes,19742,Not Loyal,4,VIP,Yes,Yes
+Client 40,52,Male,Kazakhstan,75486,26111,8,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 41,65,Male,Russia,34932,10491,15,1,Yes,10192,Not Loyal,4,C,No,No
+Client 42,45,Female,Kazakhstan,52310,8869,13,0,No,0,Loyal,1,C,No,No
+Client 43,45,Female,Ukraine,116108,28121,16,3,Yes,19260,Not Loyal,4,VIP,Yes,Yes
+Client 44,55,Female,Serbia,30547,3459,17,5,Yes,2129,Not Loyal,4,C,Yes,No
+Client 45,27,Female,Kazakhstan,97793,33425,8,3,Yes,13491,Not Loyal,3,VIP,Yes,Yes
+Client 46,19,Male,Serbia,97718,30911,3,1,Yes,17829,Not Loyal,4,VIP,Yes,Yes
+Client 47,56,Female,Kazakhstan,101820,2366,6,3,Yes,682,Not Loyal,3,C,Yes,No
+Client 48,38,Female,Kazakhstan,22207,26489,4,2,Yes,23622,Not Loyal,4,VIP,Yes,Yes
+Client 49,64,Female,Russia,86493,25804,19,2,Yes,935,Loyal,1,VIP,Yes,Yes
+Client 50,62,Male,Ukraine,59099,6993,11,1,Yes,1494,Not Loyal,2,C,Yes,Yes
+Client 51,65,Male,Russia,110195,18182,19,4,Yes,5750,Not Loyal,3,A,Yes,No
+Client 52,53,Male,Belarus,30523,31338,9,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 53,30,Female,Ukraine,69075,27912,14,2,Yes,12089,Not Loyal,3,VIP,Yes,Yes
+Client 54,54,Male,Ukraine,37889,1385,9,0,No,0,Not Loyal,1,C,Yes,No
+Client 55,24,Male,Serbia,46759,16553,11,0,No,0,Loyal,1,B,Yes,No
+Client 56,57,Female,Serbia,37353,26539,5,4,Yes,25338,Not Loyal,4,VIP,Yes,Yes
+Client 57,64,Female,Kazakhstan,80528,5303,3,4,Yes,4487,Not Loyal,4,C,Yes,Yes
+Client 58,58,Female,Belarus,67810,23312,2,2,Yes,16141,Not Loyal,4,A,Yes,Yes
+Client 59,22,Male,Ukraine,105337,2687,17,5,Yes,1886,Not Loyal,4,C,Yes,Yes
+Client 60,22,Female,Ukraine,100282,23884,10,3,Yes,1943,Loyal,1,A,Yes,No
+Client 61,53,Female,Kazakhstan,30308,5700,11,3,Yes,3015,Not Loyal,4,C,Yes,No
+Client 62,62,Male,Kazakhstan,82982,5519,15,3,Yes,4883,Not Loyal,4,C,Yes,No
+Client 63,21,Female,Kazakhstan,41031,3140,16,2,Yes,2944,Not Loyal,4,C,Yes,Yes
+Client 64,49,Female,Belarus,47606,32040,18,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 65,18,Male,Ukraine,102716,5066,19,4,Yes,1000,Not Loyal,2,C,Yes,Yes
+Client 66,47,Male,Kazakhstan,21712,34386,8,1,Yes,21613,Not Loyal,4,VIP,Yes,Yes
+Client 67,48,Male,Serbia,42294,9945,8,0,No,0,Loyal,1,C,Yes,No
+Client 68,55,Female,Serbia,101752,1542,9,0,No,0,Not Loyal,1,C,No,No
+Client 69,66,Male,Kazakhstan,52688,33660,19,1,Yes,26928,Not Loyal,4,VIP,Yes,Yes
+Client 70,68,Female,Belarus,111779,17701,16,4,Yes,16774,Not Loyal,4,B,No,Yes
+Client 71,61,Female,Ukraine,103233,34031,14,3,Yes,19566,Not Loyal,4,VIP,Yes,Yes
+Client 72,45,Male,Russia,91487,16138,18,1,Yes,9514,Not Loyal,4,B,No,No
+Client 73,50,Female,Kazakhstan,88573,10806,19,3,Yes,6294,Not Loyal,4,C,No,No
+Client 74,44,Female,Kazakhstan,46161,20233,5,0,No,0,Not Loyal,1,A,Yes,Yes
+Client 75,32,Male,Russia,77118,9263,17,5,Yes,6249,Not Loyal,4,C,No,Yes
+Client 76,34,Female,Ukraine,45380,5679,8,1,Yes,841,Not Loyal,2,C,No,No
+Client 77,48,Female,Kazakhstan,40318,31285,6,1,Yes,10781,Not Loyal,3,VIP,Yes,Yes
+Client 78,41,Male,Kazakhstan,105328,1270,18,4,Yes,840,Not Loyal,4,C,No,Yes
+Client 79,58,Male,Serbia,66397,5058,10,3,Yes,1453,Not Loyal,3,C,Yes,No
+Client 80,39,Male,Kazakhstan,86697,6111,5,1,Yes,2689,Not Loyal,3,C,No,No
+Client 81,47,Male,Kazakhstan,105825,15401,13,0,No,0,Loyal,1,B,No,Yes
+Client 82,40,Female,Russia,78524,16721,6,4,Yes,13893,Not Loyal,4,B,Yes,No
+Client 83,58,Male,Kazakhstan,74210,5307,5,1,Yes,602,Not Loyal,2,C,No,Yes
+Client 84,53,Female,Serbia,55146,3371,18,0,No,0,Not Loyal,1,C,Yes,Yes
+Client 85,64,Female,Ukraine,72375,28860,11,2,Yes,12731,Not Loyal,3,VIP,Yes,Yes
+Client 86,35,Male,Russia,63217,17568,1,5,Yes,9679,Not Loyal,4,B,No,No
+Client 87,69,Female,Ukraine,81494,1489,12,5,Yes,1153,Not Loyal,4,C,Yes,Yes
+Client 88,38,Male,Russia,23499,1212,20,0,No,0,Not Loyal,1,C,Yes,No
+Client 89,61,Male,Ukraine,73025,6479,6,5,Yes,5059,Not Loyal,4,C,No,Yes
+Client 90,55,Female,Belarus,51283,26765,16,3,Yes,20603,Not Loyal,4,VIP,Yes,Yes
+Client 91,53,Female,Russia,89380,5461,7,1,Yes,2504,Not Loyal,3,C,No,Yes
+Client 92,34,Male,Serbia,20523,9052,15,5,Yes,8496,Not Loyal,4,C,Yes,No
+Client 93,29,Female,Russia,112479,12820,6,0,No,0,Loyal,1,B,Yes,Yes
+Client 94,26,Female,Russia,23451,32750,7,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 95,49,Female,Serbia,60862,19256,14,1,Yes,13658,Not Loyal,4,A,Yes,No
+Client 96,29,Male,Belarus,22876,12075,18,4,Yes,5073,Not Loyal,3,B,Yes,Yes
+Client 97,43,Male,Belarus,86213,11150,8,3,Yes,2931,Not Loyal,3,B,Yes,Yes
+Client 98,49,Female,Russia,114663,7899,2,3,Yes,4947,Not Loyal,4,C,No,Yes
+Client 99,27,Female,Serbia,84561,30116,5,5,Yes,23202,Not Loyal,4,VIP,Yes,Yes
+Client 100,64,Female,Belarus,57582,13645,8,4,Yes,9092,Not Loyal,4,B,Yes,Yes
+Client 101,22,Male,Ukraine,100560,6802,8,5,Yes,3601,Not Loyal,4,C,Yes,No
+Client 102,30,Male,Kazakhstan,58079,21129,2,2,Yes,9422,Not Loyal,3,A,Yes,Yes
+Client 103,47,Female,Serbia,80431,5425,1,5,Yes,2722,Not Loyal,4,C,Yes,No
+Client 104,52,Female,Ukraine,97570,17278,3,1,Yes,14195,Not Loyal,4,B,Yes,Yes
+Client 105,70,Female,Belarus,48910,25395,4,0,No,0,Not Loyal,1,VIP,Yes,Yes
+Client 106,44,Male,Kazakhstan,105539,17440,7,0,No,0,Loyal,1,B,No,Yes
+Client 107,34,Female,Kazakhstan,23358,8516,8,2,Yes,5802,Not Loyal,4,C,Yes,No
+Client 108,41,Female,Belarus,68733,30810,15,4,Yes,29599,Not Loyal,4,VIP,Yes,Yes
+Client 109,44,Female,Kazakhstan,76267,34615,6,1,Yes,21202,Not Loyal,4,VIP,Yes,Yes
+Client 110,47,Male,Kazakhstan,98849,12856,18,0,No,0,Loyal,1,B,Yes,No
+Client 111,64,Female,Belarus,48721,29889,11,3,Yes,16702,Not Loyal,4,VIP,Yes,Yes
+Client 112,27,Female,Ukraine,82948,33724,11,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 113,47,Male,Kazakhstan,113662,10205,16,5,Yes,5333,Not Loyal,4,C,No,Yes
+Client 114,33,Female,Belarus,76634,12312,6,3,Yes,11687,Not Loyal,4,B,Yes,Yes
+Client 115,27,Male,Belarus,114486,1556,16,5,Yes,826,Not Loyal,4,C,Yes,No
+Client 116,67,Female,Serbia,50332,33283,1,0,No,0,Not Loyal,1,VIP,Yes,Yes
+Client 117,65,Male,Belarus,29466,6166,10,0,No,0,Not Loyal,1,C,No,Yes
+Client 118,31,Male,Serbia,80927,16572,8,5,Yes,13954,Not Loyal,4,B,Yes,Yes
+Client 119,70,Male,Ukraine,92277,21623,16,4,Yes,1007,Loyal,1,A,Yes,Yes
+Client 120,36,Female,Kazakhstan,116170,29957,20,2,Yes,13693,Not Loyal,3,VIP,Yes,Yes
+Client 121,68,Female,Serbia,60238,12312,12,0,No,0,Loyal,1,B,Yes,Yes
+Client 122,51,Male,Belarus,51383,16291,1,1,Yes,7574,Not Loyal,3,B,Yes,No
+Client 123,52,Female,Belarus,38517,30666,12,3,Yes,18026,Not Loyal,4,VIP,Yes,Yes
+Client 124,42,Male,Serbia,31585,23583,20,1,Yes,1576,Loyal,1,A,Yes,Yes
+Client 125,69,Male,Kazakhstan,81320,34481,19,5,Yes,28056,Not Loyal,4,VIP,Yes,Yes
+Client 126,37,Female,Belarus,52571,33238,17,2,Yes,18952,Not Loyal,4,VIP,Yes,Yes
+Client 127,32,Male,Russia,76867,8263,4,0,No,0,Not Loyal,1,C,Yes,Yes
+Client 128,49,Female,Serbia,50707,11493,13,1,Yes,1481,Loyal,2,B,No,Yes
+Client 129,56,Male,Belarus,73629,11774,9,4,Yes,3379,Not Loyal,3,B,Yes,No
+Client 130,40,Male,Belarus,35005,15513,12,1,Yes,596,Loyal,1,B,Yes,Yes
+Client 131,43,Female,Russia,49466,22042,9,2,Yes,2986,Loyal,2,A,Yes,Yes
+Client 132,33,Male,Belarus,31084,27709,13,5,Yes,4387,Loyal,2,VIP,Yes,Yes
+Client 133,40,Male,Kazakhstan,85182,15017,16,4,Yes,4621,Not Loyal,3,B,No,No
+Client 134,49,Female,Belarus,86752,5182,14,0,No,0,Not Loyal,1,C,No,No
+Client 135,25,Female,Russia,53028,30034,11,4,Yes,11749,Not Loyal,3,VIP,Yes,Yes
+Client 136,70,Female,Serbia,50704,24755,12,2,Yes,9048,Not Loyal,3,A,Yes,Yes
+Client 137,26,Female,Belarus,67691,20964,14,1,Yes,12078,Not Loyal,4,A,Yes,Yes
+Client 138,38,Male,Russia,29327,29018,10,5,Yes,21716,Not Loyal,4,VIP,Yes,Yes
+Client 139,30,Male,Belarus,112028,12745,14,4,Yes,8835,Not Loyal,4,B,No,No
+Client 140,21,Female,Ukraine,107410,24276,1,5,Yes,20062,Not Loyal,4,A,Yes,No
+Client 141,23,Male,Russia,53768,24065,8,5,Yes,17087,Not Loyal,4,A,Yes,No
+Client 142,23,Male,Serbia,75311,2401,8,1,Yes,1874,Not Loyal,4,C,No,Yes
+Client 143,23,Male,Russia,26090,10967,4,5,Yes,6604,Not Loyal,4,C,Yes,Yes
+Client 144,40,Male,Serbia,70948,2425,18,5,Yes,1711,Not Loyal,4,C,Yes,No
+Client 145,39,Female,Ukraine,22759,9472,7,3,Yes,5099,Not Loyal,4,C,Yes,Yes
+Client 146,61,Male,Serbia,95911,23249,15,3,Yes,19523,Not Loyal,4,A,Yes,Yes
+Client 147,46,Male,Ukraine,102411,8751,20,1,Yes,1067,Loyal,2,C,Yes,Yes
+Client 148,37,Male,Serbia,112942,14314,14,5,Yes,4319,Not Loyal,3,B,Yes,No
+Client 149,66,Female,Serbia,58147,33544,8,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 150,51,Male,Belarus,25251,26462,9,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 151,62,Male,Serbia,119053,33245,5,0,No,0,Not Loyal,1,VIP,Yes,Yes
+Client 152,49,Male,Ukraine,62918,28479,5,1,Yes,19504,Not Loyal,4,VIP,Yes,Yes
+Client 153,41,Male,Kazakhstan,84350,28406,16,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 154,26,Male,Russia,69074,4107,15,2,Yes,3106,Not Loyal,4,C,Yes,No
+Client 155,30,Female,Belarus,67746,1621,9,0,No,0,Not Loyal,1,C,No,Yes
+Client 156,45,Male,Serbia,35450,3096,6,2,Yes,2480,Not Loyal,4,C,Yes,No
+Client 157,49,Female,Kazakhstan,50476,3083,8,4,Yes,1282,Not Loyal,3,C,No,Yes
+Client 158,55,Male,Kazakhstan,36352,27677,3,5,Yes,11001,Not Loyal,3,VIP,Yes,Yes
+Client 159,33,Female,Serbia,44802,13941,6,4,Yes,2261,Loyal,2,B,No,No
+Client 160,53,Male,Belarus,94304,22295,19,5,Yes,16737,Not Loyal,4,A,Yes,Yes
+Client 161,29,Female,Russia,116478,20098,7,4,Yes,14658,Not Loyal,4,A,Yes,No
+Client 162,42,Female,Serbia,88195,4641,11,3,Yes,2141,Not Loyal,3,C,No,No
+Client 163,61,Male,Ukraine,62176,9552,3,1,Yes,3986,Not Loyal,3,C,No,Yes
+Client 164,64,Male,Belarus,74037,14157,1,0,No,0,Not Loyal,1,B,Yes,No
+Client 165,68,Male,Serbia,47853,20119,12,1,Yes,8023,Not Loyal,3,A,Yes,No
+Client 166,69,Female,Serbia,47802,8290,9,0,No,0,Loyal,1,C,Yes,Yes
+Client 167,50,Female,Belarus,113864,34190,3,0,No,0,Not Loyal,1,VIP,Yes,Yes
+Client 168,30,Female,Kazakhstan,20357,24685,4,0,No,0,Not Loyal,1,A,Yes,No
+Client 169,44,Female,Belarus,95706,10536,6,1,Yes,7031,Not Loyal,4,C,No,Yes
+Client 170,63,Female,Kazakhstan,104979,22341,14,5,Yes,21069,Not Loyal,4,A,Yes,No
+Client 171,68,Female,Russia,81442,8931,10,0,No,0,Loyal,1,C,Yes,Yes
+Client 172,46,Female,Ukraine,20764,1400,1,2,Yes,892,Not Loyal,4,C,No,Yes
+Client 173,60,Female,Belarus,57535,34663,4,2,Yes,28802,Not Loyal,4,VIP,Yes,Yes
+Client 174,61,Female,Russia,85875,2160,16,0,No,0,Not Loyal,1,C,Yes,Yes
+Client 175,23,Female,Russia,55089,4231,19,2,Yes,3992,Not Loyal,4,C,Yes,Yes
+Client 176,43,Female,Russia,39865,30042,18,4,Yes,10709,Not Loyal,3,VIP,Yes,Yes
+Client 177,63,Male,Belarus,33948,25562,5,3,Yes,7794,Not Loyal,3,VIP,Yes,Yes
+Client 178,34,Male,Belarus,62311,31991,17,2,Yes,9578,Not Loyal,3,VIP,Yes,Yes
+Client 179,29,Male,Belarus,78558,30693,4,0,No,0,Not Loyal,1,VIP,Yes,Yes
+Client 180,28,Male,Serbia,22113,30331,20,4,Yes,22406,Not Loyal,4,VIP,Yes,Yes
+Client 181,65,Male,Ukraine,103114,33542,4,5,Yes,3932,Not Loyal,2,VIP,Yes,Yes
+Client 182,39,Male,Kazakhstan,108093,8173,1,3,Yes,3955,Not Loyal,3,C,No,Yes
+Client 183,58,Male,Ukraine,108438,1093,20,5,Yes,544,Not Loyal,3,C,Yes,No
+Client 184,48,Female,Belarus,54991,34419,14,1,Yes,18533,Not Loyal,4,VIP,Yes,Yes
+Client 185,64,Female,Kazakhstan,74016,26796,12,3,Yes,14504,Not Loyal,4,VIP,Yes,Yes
+Client 186,53,Male,Belarus,116246,13117,8,2,Yes,8192,Not Loyal,4,B,No,No
+Client 187,48,Male,Kazakhstan,22814,19928,8,5,Yes,12279,Not Loyal,4,A,Yes,Yes
+Client 188,53,Female,Serbia,55224,2112,12,5,Yes,935,Not Loyal,3,C,No,Yes
+Client 189,31,Female,Belarus,118806,20225,2,2,Yes,8966,Not Loyal,3,A,Yes,Yes
+Client 190,25,Male,Russia,49567,34791,4,5,Yes,809,Not Loyal,1,VIP,Yes,Yes
+Client 191,29,Female,Ukraine,58284,33472,16,4,Yes,24861,Not Loyal,4,VIP,Yes,Yes
+Client 192,45,Male,Kazakhstan,86136,20167,15,0,No,0,Loyal,1,A,Yes,No
+Client 193,57,Female,Belarus,107945,20814,7,2,Yes,16086,Not Loyal,4,A,Yes,No
+Client 194,56,Female,Kazakhstan,35399,29065,10,5,Yes,8326,Not Loyal,3,VIP,Yes,Yes
+Client 195,48,Male,Serbia,70126,17325,1,3,Yes,6555,Not Loyal,3,B,No,No
+Client 196,39,Male,Serbia,96044,23788,4,0,No,0,Not Loyal,1,A,Yes,No
+Client 197,60,Male,Serbia,117025,18935,10,2,Yes,13519,Not Loyal,4,A,Yes,Yes
+Client 198,33,Male,Belarus,87746,6515,16,3,Yes,3973,Not Loyal,4,C,Yes,No
+Client 199,63,Male,Kazakhstan,23213,32379,11,1,Yes,8603,Not Loyal,3,VIP,Yes,Yes
+Client 200,26,Male,Serbia,85349,15741,9,0,No,0,Loyal,1,B,Yes,No
+Client 201,41,Male,Belarus,50378,5139,6,1,Yes,2888,Not Loyal,4,C,Yes,Yes
+Client 202,33,Female,Russia,93506,21536,1,2,Yes,7560,Not Loyal,3,A,Yes,Yes
+Client 203,25,Female,Ukraine,51290,9339,8,5,Yes,598,Loyal,1,C,No,Yes
+Client 204,64,Male,Serbia,62620,1765,5,1,Yes,754,Not Loyal,3,C,Yes,Yes
+Client 205,65,Female,Kazakhstan,75879,10409,12,4,Yes,1629,Loyal,2,C,Yes,Yes
+Client 206,66,Female,Ukraine,83515,29458,18,4,Yes,3840,Loyal,2,VIP,Yes,Yes
+Client 207,43,Female,Kazakhstan,29658,10428,5,2,Yes,3969,Not Loyal,3,C,Yes,Yes
+Client 208,57,Male,Russia,25374,19578,11,5,Yes,4136,Loyal,2,A,Yes,Yes
+Client 209,46,Male,Belarus,22374,1496,7,0,No,0,Not Loyal,1,C,Yes,No
+Client 210,30,Male,Belarus,58331,2882,2,3,Yes,2054,Not Loyal,4,C,No,No
+Client 211,24,Female,Belarus,87867,7105,16,0,No,0,Not Loyal,1,C,Yes,Yes
+Client 212,25,Male,Belarus,77449,8328,1,4,Yes,7628,Not Loyal,4,C,Yes,No
+Client 213,69,Female,Serbia,75727,31209,5,5,Yes,21404,Not Loyal,4,VIP,Yes,Yes
+Client 214,34,Female,Serbia,118048,28506,17,5,Yes,2397,Loyal,1,VIP,Yes,Yes
+Client 215,69,Female,Russia,95137,34731,7,1,Yes,32220,Not Loyal,4,VIP,Yes,Yes
+Client 216,43,Female,Serbia,69420,15209,7,4,Yes,10757,Not Loyal,4,B,Yes,No
+Client 217,63,Female,Russia,93349,24626,15,4,Yes,22268,Not Loyal,4,A,Yes,No
+Client 218,25,Male,Kazakhstan,46080,33118,20,1,Yes,11990,Not Loyal,3,VIP,Yes,Yes
+Client 219,28,Female,Serbia,112202,1165,18,2,Yes,536,Not Loyal,3,C,Yes,No
+Client 220,33,Male,Belarus,117842,30979,13,1,Yes,4317,Loyal,2,VIP,Yes,Yes
+Client 221,21,Male,Ukraine,62170,25236,19,5,Yes,12525,Not Loyal,3,VIP,Yes,Yes
+Client 222,46,Male,Serbia,29011,5795,7,5,Yes,1570,Not Loyal,3,C,Yes,No
+Client 223,56,Female,Russia,105940,25116,20,1,Yes,10171,Not Loyal,3,VIP,Yes,Yes
+Client 224,20,Female,Kazakhstan,38442,17123,11,5,Yes,12619,Not Loyal,4,B,No,No
+Client 225,32,Male,Russia,42435,1505,7,2,Yes,1375,Not Loyal,4,C,Yes,Yes
+Client 226,31,Male,Russia,21525,33153,15,4,Yes,18058,Not Loyal,4,VIP,Yes,Yes
+Client 227,33,Female,Belarus,62557,13058,2,1,Yes,2358,Not Loyal,2,B,Yes,Yes
+Client 228,24,Male,Kazakhstan,51722,19391,1,3,Yes,5710,Not Loyal,3,A,Yes,No
+Client 229,70,Female,Belarus,37180,13313,7,3,Yes,7054,Not Loyal,4,B,No,No
+Client 230,51,Female,Ukraine,61823,26197,8,3,Yes,15468,Not Loyal,4,VIP,Yes,Yes
+Client 231,55,Female,Ukraine,79217,33270,1,5,Yes,688,Not Loyal,1,VIP,Yes,Yes
+Client 232,49,Male,Ukraine,44447,5957,15,0,No,0,Not Loyal,1,C,Yes,No
+Client 233,46,Male,Serbia,76578,4746,7,1,Yes,3097,Not Loyal,4,C,No,Yes
+Client 234,53,Male,Kazakhstan,58993,28406,5,1,Yes,17192,Not Loyal,4,VIP,Yes,Yes
+Client 235,37,Male,Ukraine,32356,25201,6,4,Yes,5653,Loyal,2,VIP,Yes,Yes
+Client 236,54,Male,Russia,30228,2450,2,0,No,0,Not Loyal,1,C,Yes,No
+Client 237,45,Female,Russia,25184,2941,7,2,Yes,761,Not Loyal,3,C,Yes,No
+Client 238,59,Male,Serbia,39955,5815,2,0,No,0,Not Loyal,1,C,No,No
+Client 239,46,Male,Ukraine,76101,19124,3,3,Yes,15436,Not Loyal,4,A,Yes,Yes
+Client 240,23,Female,Kazakhstan,31728,23256,8,3,Yes,15197,Not Loyal,4,A,Yes,No
+Client 241,63,Male,Ukraine,31597,13612,2,3,Yes,6030,Not Loyal,3,B,No,Yes
+Client 242,22,Male,Serbia,20478,4242,14,5,Yes,2602,Not Loyal,4,C,No,No
+Client 243,40,Male,Belarus,49507,15241,5,5,Yes,6026,Not Loyal,3,B,Yes,Yes
+Client 244,62,Male,Serbia,49151,26281,10,4,Yes,24531,Not Loyal,4,VIP,Yes,Yes
+Client 245,35,Male,Belarus,85288,13437,16,4,Yes,12616,Not Loyal,4,B,No,Yes
+Client 246,40,Male,Ukraine,118582,4276,8,0,No,0,Not Loyal,1,C,Yes,No
+Client 247,33,Female,Russia,48897,31057,3,3,Yes,6206,Not Loyal,2,VIP,Yes,Yes
+Client 248,42,Female,Ukraine,58506,26057,3,3,Yes,25072,Not Loyal,4,VIP,Yes,Yes
+Client 249,51,Female,Serbia,106154,22219,11,4,Yes,19144,Not Loyal,4,A,Yes,No
+Client 250,46,Male,Russia,103152,3729,2,2,Yes,2597,Not Loyal,4,C,Yes,Yes
+Client 251,55,Female,Ukraine,47082,16339,3,0,No,0,Not Loyal,1,B,No,No
+Client 252,70,Male,Kazakhstan,21738,19415,18,4,Yes,6341,Not Loyal,3,A,Yes,No
+Client 253,38,Female,Russia,102901,16137,13,4,Yes,10956,Not Loyal,4,B,Yes,Yes
+Client 254,40,Female,Serbia,114449,7211,7,0,No,0,Not Loyal,1,C,Yes,Yes
+Client 255,66,Male,Ukraine,25624,22492,11,3,Yes,16013,Not Loyal,4,A,Yes,No
+Client 256,31,Male,Russia,61457,15616,12,5,Yes,10741,Not Loyal,4,B,Yes,No
+Client 257,55,Female,Russia,56428,20426,12,3,Yes,11895,Not Loyal,4,A,Yes,No
+Client 258,46,Female,Ukraine,60655,16157,10,1,Yes,11647,Not Loyal,4,B,Yes,Yes
+Client 259,24,Male,Belarus,52574,29501,20,5,Yes,26266,Not Loyal,4,VIP,Yes,Yes
+Client 260,64,Male,Serbia,42256,30383,3,2,Yes,12855,Not Loyal,3,VIP,Yes,Yes
+Client 261,58,Female,Russia,22089,31601,2,1,Yes,15658,Not Loyal,3,VIP,Yes,Yes
+Client 262,63,Female,Kazakhstan,81081,17907,3,4,Yes,10309,Not Loyal,4,B,Yes,No
+Client 263,21,Female,Ukraine,118554,31612,3,2,Yes,854,Not Loyal,1,VIP,Yes,Yes
+Client 264,63,Female,Serbia,104994,12194,5,5,Yes,7131,Not Loyal,4,B,No,Yes
+Client 265,65,Male,Serbia,31452,13754,18,5,Yes,3534,Not Loyal,3,B,Yes,Yes
+Client 266,43,Male,Ukraine,20834,15016,3,4,Yes,2153,Not Loyal,2,B,Yes,Yes
+Client 267,27,Female,Belarus,98315,6819,2,1,Yes,6136,Not Loyal,4,C,Yes,No
+Client 268,24,Male,Ukraine,24727,19800,9,3,Yes,4518,Loyal,2,A,Yes,No
+Client 269,20,Male,Serbia,80637,27410,17,3,Yes,21084,Not Loyal,4,VIP,Yes,Yes
+Client 270,52,Female,Kazakhstan,27869,18487,15,4,Yes,9244,Not Loyal,4,A,Yes,No
+Client 271,34,Female,Serbia,56813,16723,8,0,No,0,Loyal,1,B,Yes,Yes
+Client 272,43,Female,Belarus,96473,8112,7,4,Yes,7713,Not Loyal,4,C,Yes,Yes
+Client 273,52,Female,Russia,62633,6998,1,0,No,0,Not Loyal,1,C,No,Yes
+Client 274,19,Female,Serbia,61177,7845,5,2,Yes,4598,Not Loyal,4,C,Yes,Yes
+Client 275,32,Female,Ukraine,107461,30283,6,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 276,42,Female,Belarus,77713,23420,12,5,Yes,14557,Not Loyal,4,A,Yes,Yes
+Client 277,61,Male,Belarus,78465,4315,19,3,Yes,1877,Not Loyal,3,C,Yes,Yes
+Client 278,57,Female,Serbia,103461,29304,8,3,Yes,16300,Not Loyal,4,VIP,Yes,Yes
+Client 279,21,Male,Russia,61413,10853,4,3,Yes,1855,Not Loyal,2,C,No,No
+Client 280,70,Female,Belarus,78311,25466,4,3,Yes,8485,Not Loyal,3,VIP,Yes,Yes
+Client 281,37,Female,Kazakhstan,74115,20758,5,2,Yes,8721,Not Loyal,3,A,Yes,Yes
+Client 282,70,Male,Ukraine,83817,31228,1,4,Yes,6390,Not Loyal,2,VIP,Yes,Yes
+Client 283,20,Male,Serbia,107865,15137,16,4,Yes,1556,Loyal,2,B,Yes,Yes
+Client 284,69,Male,Russia,46383,9428,16,5,Yes,5301,Not Loyal,4,C,No,Yes
+Client 285,41,Female,Kazakhstan,105991,34091,10,5,Yes,30439,Not Loyal,4,VIP,Yes,Yes
+Client 286,40,Female,Russia,110377,17574,16,5,Yes,11219,Not Loyal,4,B,Yes,No
+Client 287,37,Male,Kazakhstan,82552,24119,17,1,Yes,14082,Not Loyal,4,A,Yes,Yes
+Client 288,19,Female,Ukraine,92130,11274,3,3,Yes,692,Not Loyal,1,B,No,No
+Client 289,51,Male,Russia,46894,25595,14,2,Yes,9668,Not Loyal,3,VIP,Yes,Yes
+Client 290,18,Female,Russia,111181,4451,8,1,Yes,3084,Not Loyal,4,C,No,No
+Client 291,20,Female,Ukraine,48669,14314,13,5,Yes,10946,Not Loyal,4,B,Yes,Yes
+Client 292,64,Male,Kazakhstan,104201,19582,9,2,Yes,15814,Not Loyal,4,A,Yes,Yes
+Client 293,48,Male,Kazakhstan,66393,34099,3,4,Yes,24686,Not Loyal,4,VIP,Yes,Yes
+Client 294,62,Male,Kazakhstan,99141,10678,10,1,Yes,5847,Not Loyal,4,C,No,No
+Client 295,55,Male,Serbia,50742,10237,15,3,Yes,8830,Not Loyal,4,C,No,Yes
+Client 296,63,Female,Belarus,96159,21182,11,1,Yes,19827,Not Loyal,4,A,Yes,No
+Client 297,33,Male,Russia,31749,32579,20,2,Yes,12231,Not Loyal,3,VIP,Yes,Yes
+Client 298,42,Female,Russia,54434,13187,5,2,Yes,923,Not Loyal,1,B,Yes,No
+Client 299,69,Female,Belarus,112480,26861,14,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 300,25,Male,Kazakhstan,116310,22523,1,3,Yes,19188,Not Loyal,4,A,Yes,No
+Client 301,37,Male,Serbia,108324,16435,7,2,Yes,4942,Not Loyal,3,B,No,Yes
+Client 302,57,Female,Ukraine,108619,25297,8,5,Yes,24745,Not Loyal,4,VIP,Yes,Yes
+Client 303,18,Male,Kazakhstan,109221,29968,16,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 304,55,Female,Ukraine,93698,6419,7,2,Yes,5880,Not Loyal,4,C,Yes,Yes
+Client 305,34,Male,Serbia,42533,31436,19,4,Yes,13986,Not Loyal,3,VIP,Yes,Yes
+Client 306,39,Female,Russia,73650,32838,1,1,Yes,18930,Not Loyal,4,VIP,Yes,Yes
+Client 307,26,Male,Ukraine,102083,27188,14,1,Yes,13909,Not Loyal,4,VIP,Yes,Yes
+Client 308,36,Male,Kazakhstan,69537,6897,18,2,Yes,3022,Not Loyal,3,C,Yes,Yes
+Client 309,67,Male,Ukraine,77183,13152,13,1,Yes,10309,Not Loyal,4,B,No,No
+Client 310,47,Female,Ukraine,70838,32145,17,3,Yes,29385,Not Loyal,4,VIP,Yes,Yes
+Client 311,19,Male,Belarus,44818,13963,15,5,Yes,11047,Not Loyal,4,B,Yes,No
+Client 312,56,Male,Ukraine,30886,33007,7,4,Yes,20673,Not Loyal,4,VIP,Yes,Yes
+Client 313,68,Male,Ukraine,80921,7284,4,0,No,0,Not Loyal,1,C,No,Yes
+Client 314,45,Female,Ukraine,21117,21385,11,5,Yes,8953,Not Loyal,3,A,Yes,No
+Client 315,43,Male,Kazakhstan,65102,7887,9,0,No,0,Not Loyal,1,C,No,No
+Client 316,26,Male,Ukraine,117844,20462,2,2,Yes,18119,Not Loyal,4,A,Yes,Yes
+Client 317,27,Male,Russia,35426,12182,17,5,Yes,1163,Loyal,1,B,Yes,Yes
+Client 318,46,Male,Kazakhstan,36866,20916,11,3,Yes,16588,Not Loyal,4,A,Yes,Yes
+Client 319,61,Male,Kazakhstan,21322,27297,1,1,Yes,1923,Not Loyal,1,VIP,Yes,Yes
+Client 320,68,Female,Serbia,44838,11692,19,2,Yes,3438,Not Loyal,3,B,No,Yes
+Client 321,52,Male,Kazakhstan,113145,9613,1,2,Yes,6464,Not Loyal,4,C,Yes,No
+Client 322,26,Female,Ukraine,53279,12277,6,1,Yes,2354,Loyal,2,B,Yes,Yes
+Client 323,60,Male,Russia,113001,23831,4,0,No,0,Not Loyal,1,A,Yes,Yes
+Client 324,60,Female,Russia,119079,20505,4,5,Yes,1775,Not Loyal,1,A,Yes,Yes
+Client 325,37,Female,Kazakhstan,33305,20985,3,0,No,0,Not Loyal,1,A,Yes,Yes
+Client 326,31,Male,Belarus,72442,9658,2,3,Yes,2555,Not Loyal,3,C,Yes,Yes
+Client 327,54,Female,Serbia,79630,7197,2,5,Yes,6044,Not Loyal,4,C,Yes,No
+Client 328,30,Male,Serbia,28310,15150,17,4,Yes,654,Loyal,1,B,No,Yes
+Client 329,30,Female,Serbia,23935,34749,11,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 330,31,Male,Ukraine,91544,5879,2,3,Yes,5843,Not Loyal,4,C,No,No
+Client 331,32,Female,Serbia,109619,17726,6,0,No,0,Loyal,1,B,No,Yes
+Client 332,38,Female,Kazakhstan,95587,6595,8,4,Yes,3072,Not Loyal,3,C,Yes,No
+Client 333,27,Female,Ukraine,57544,17659,4,2,Yes,12475,Not Loyal,4,B,Yes,Yes
+Client 334,52,Female,Serbia,27462,10548,16,4,Yes,7898,Not Loyal,4,C,No,No
+Client 335,41,Female,Ukraine,115812,11636,10,3,Yes,9461,Not Loyal,4,B,Yes,No
+Client 336,69,Male,Belarus,80717,9236,14,1,Yes,7183,Not Loyal,4,C,Yes,Yes
+Client 337,42,Female,Serbia,109583,15518,17,5,Yes,14663,Not Loyal,4,B,Yes,No
+Client 338,60,Male,Kazakhstan,36959,32536,9,2,Yes,14905,Not Loyal,3,VIP,Yes,Yes
+Client 339,58,Male,Belarus,107064,4273,3,0,No,0,Not Loyal,1,C,Yes,Yes
+Client 340,68,Male,Serbia,51883,20077,8,5,Yes,10082,Not Loyal,4,A,Yes,Yes
+Client 341,52,Male,Ukraine,58944,26435,15,4,Yes,5746,Loyal,2,VIP,Yes,Yes
+Client 342,27,Female,Russia,65976,8003,16,3,Yes,2209,Not Loyal,3,C,No,No
+Client 343,43,Female,Kazakhstan,82318,25993,15,5,Yes,19063,Not Loyal,4,VIP,Yes,Yes
+Client 344,66,Female,Serbia,113397,9741,17,0,No,0,Loyal,1,C,Yes,No
+Client 345,57,Male,Serbia,67877,4337,4,0,No,0,Not Loyal,1,C,Yes,Yes
+Client 346,67,Female,Belarus,61114,15025,9,2,Yes,1193,Loyal,1,B,No,Yes
+Client 347,23,Male,Serbia,55228,4237,7,5,Yes,2131,Not Loyal,4,C,Yes,No
+Client 348,63,Female,Kazakhstan,63493,22142,19,4,Yes,16439,Not Loyal,4,A,Yes,No
+Client 349,43,Male,Kazakhstan,105671,33905,3,0,No,0,Not Loyal,1,VIP,Yes,Yes
+Client 350,36,Male,Serbia,69067,14418,3,1,Yes,10047,Not Loyal,4,B,Yes,Yes
+Client 351,63,Male,Belarus,102508,6767,10,2,Yes,846,Not Loyal,2,C,Yes,No
+Client 352,39,Male,Kazakhstan,47765,14055,9,5,Yes,7875,Not Loyal,4,B,Yes,No
+Client 353,67,Male,Russia,86927,12046,6,1,Yes,3234,Not Loyal,3,B,Yes,No
+Client 354,23,Female,Belarus,36858,19179,13,5,Yes,10943,Not Loyal,4,A,Yes,Yes
+Client 355,61,Female,Ukraine,48227,28483,17,1,Yes,15777,Not Loyal,4,VIP,Yes,Yes
+Client 356,54,Male,Belarus,49071,34562,8,4,Yes,10758,Not Loyal,3,VIP,Yes,Yes
+Client 357,35,Female,Kazakhstan,55731,5888,9,4,Yes,3996,Not Loyal,4,C,Yes,Yes
+Client 358,60,Male,Kazakhstan,53833,8268,19,2,Yes,1452,Loyal,2,C,Yes,Yes
+Client 359,54,Female,Ukraine,85128,21631,2,1,Yes,9199,Not Loyal,3,A,Yes,Yes
+Client 360,70,Male,Ukraine,48403,29507,14,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 361,63,Female,Ukraine,70695,34967,7,5,Yes,9295,Not Loyal,3,VIP,Yes,Yes
+Client 362,42,Male,Serbia,49689,34395,3,3,Yes,11689,Not Loyal,3,VIP,Yes,Yes
+Client 363,58,Female,Kazakhstan,86973,3450,14,1,Yes,2752,Not Loyal,4,C,No,Yes
+Client 364,39,Female,Serbia,104857,33008,6,5,Yes,4194,Loyal,2,VIP,Yes,Yes
+Client 365,25,Male,Serbia,29905,30467,4,0,No,0,Not Loyal,1,VIP,Yes,Yes
+Client 366,60,Female,Russia,116470,28954,15,4,Yes,8095,Not Loyal,3,VIP,Yes,Yes
+Client 367,43,Female,Serbia,70763,34715,18,2,Yes,546,Loyal,1,VIP,Yes,Yes
+Client 368,45,Male,Kazakhstan,44936,5144,9,3,Yes,2584,Not Loyal,4,C,Yes,Yes
+Client 369,60,Male,Serbia,70675,23267,14,5,Yes,19965,Not Loyal,4,A,Yes,Yes
+Client 370,47,Female,Belarus,115409,5140,11,3,Yes,3882,Not Loyal,4,C,No,No
+Client 371,55,Male,Belarus,25013,4089,6,3,Yes,1172,Not Loyal,3,C,No,No
+Client 372,50,Male,Kazakhstan,107175,5200,2,5,Yes,3847,Not Loyal,4,C,No,No
+Client 373,63,Male,Ukraine,98609,31063,9,5,Yes,24435,Not Loyal,4,VIP,Yes,Yes
+Client 374,34,Male,Russia,97116,21190,1,4,Yes,8485,Not Loyal,3,A,Yes,No
+Client 375,62,Male,Russia,74569,5381,5,2,Yes,3715,Not Loyal,4,C,Yes,No
+Client 376,21,Male,Russia,36354,21204,6,0,No,0,Loyal,1,A,Yes,No
+Client 377,32,Male,Russia,68265,34842,10,2,Yes,9651,Not Loyal,3,VIP,Yes,Yes
+Client 378,55,Male,Ukraine,91452,6732,10,0,No,0,Not Loyal,1,C,Yes,No
+Client 379,26,Female,Ukraine,90933,23502,2,3,Yes,14311,Not Loyal,4,A,Yes,Yes
+Client 380,31,Male,Serbia,40334,20588,15,2,Yes,8441,Not Loyal,3,A,Yes,No
+Client 381,26,Female,Russia,60050,21439,14,2,Yes,17770,Not Loyal,4,A,Yes,No
+Client 382,37,Male,Kazakhstan,59312,4021,1,2,Yes,2487,Not Loyal,4,C,No,No
+Client 383,25,Female,Serbia,68090,10340,7,1,Yes,4254,Not Loyal,3,C,No,No
+Client 384,65,Male,Serbia,84654,32086,10,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 385,63,Female,Serbia,20642,5111,9,4,Yes,982,Not Loyal,2,C,No,No
+Client 386,20,Male,Russia,34533,14475,3,2,Yes,9578,Not Loyal,4,B,Yes,No
+Client 387,58,Female,Serbia,23785,7798,3,0,No,0,Not Loyal,1,C,No,No
+Client 388,31,Female,Kazakhstan,37569,18298,17,2,Yes,10083,Not Loyal,4,A,Yes,Yes
+Client 389,19,Female,Belarus,95126,26981,3,5,Yes,25573,Not Loyal,4,VIP,Yes,Yes
+Client 390,66,Male,Ukraine,27134,23227,8,0,No,0,Loyal,1,A,Yes,Yes
+Client 391,59,Female,Ukraine,86912,34026,7,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 392,62,Male,Belarus,48753,7352,7,2,Yes,2228,Not Loyal,3,C,No,Yes
+Client 393,33,Female,Ukraine,64724,5918,10,1,Yes,3048,Not Loyal,4,C,No,No
+Client 394,62,Male,Belarus,79069,24920,17,1,Yes,21236,Not Loyal,4,A,Yes,Yes
+Client 395,63,Male,Russia,33110,11374,13,3,Yes,3546,Not Loyal,3,B,Yes,Yes
+Client 396,20,Female,Belarus,97795,17491,4,4,Yes,3740,Not Loyal,2,B,Yes,No
+Client 397,37,Female,Russia,114107,15257,3,4,Yes,14506,Not Loyal,4,B,No,No
+Client 398,37,Female,Ukraine,20858,31504,16,2,Yes,5837,Loyal,2,VIP,Yes,Yes
+Client 399,26,Male,Kazakhstan,51515,12748,13,0,No,0,Loyal,1,B,No,No
+Client 400,34,Male,Kazakhstan,20559,4963,2,5,Yes,2285,Not Loyal,3,C,Yes,Yes
+Client 401,50,Male,Russia,98020,24282,10,4,Yes,6757,Not Loyal,3,A,Yes,No
+Client 402,27,Female,Russia,33541,7800,5,4,Yes,3063,Not Loyal,3,C,No,Yes
+Client 403,28,Female,Kazakhstan,60066,24574,13,0,No,0,Loyal,1,A,Yes,No
+Client 404,62,Male,Belarus,66605,25863,19,4,Yes,15572,Not Loyal,4,VIP,Yes,Yes
+Client 405,28,Female,Ukraine,67003,2282,9,3,Yes,999,Not Loyal,3,C,No,Yes
+Client 406,39,Male,Belarus,45664,22483,2,4,Yes,5143,Not Loyal,2,A,Yes,No
+Client 407,54,Female,Belarus,34363,3316,2,1,Yes,3022,Not Loyal,4,C,Yes,Yes
+Client 408,50,Female,Kazakhstan,63257,33301,5,2,Yes,21345,Not Loyal,4,VIP,Yes,Yes
+Client 409,65,Male,Belarus,78471,21356,7,2,Yes,10345,Not Loyal,3,A,Yes,Yes
+Client 410,40,Male,Kazakhstan,55239,19912,20,3,Yes,4850,Loyal,2,A,Yes,Yes
+Client 411,65,Female,Ukraine,50103,2850,7,5,Yes,1808,Not Loyal,4,C,Yes,Yes
+Client 412,64,Female,Serbia,22718,34200,14,2,Yes,11805,Not Loyal,3,VIP,Yes,Yes
+Client 413,55,Female,Russia,85779,31479,6,4,Yes,14369,Not Loyal,3,VIP,Yes,Yes
+Client 414,43,Male,Belarus,90120,21592,2,3,Yes,12578,Not Loyal,4,A,Yes,Yes
+Client 415,20,Female,Ukraine,87449,29849,8,2,Yes,12069,Not Loyal,3,VIP,Yes,Yes
+Client 416,34,Female,Ukraine,91839,25036,1,2,Yes,3244,Not Loyal,2,VIP,Yes,Yes
+Client 417,21,Male,Kazakhstan,92593,4449,7,0,No,0,Not Loyal,1,C,No,Yes
+Client 418,41,Female,Serbia,62872,2734,20,1,Yes,1911,Not Loyal,4,C,Yes,Yes
+Client 419,21,Female,Russia,61458,11253,4,5,Yes,6225,Not Loyal,4,B,No,Yes
+Client 420,19,Female,Ukraine,96390,3087,10,3,Yes,2431,Not Loyal,4,C,No,No
+Client 421,47,Female,Kazakhstan,118841,25392,16,3,Yes,2772,Loyal,2,VIP,Yes,Yes
+Client 422,67,Female,Kazakhstan,89642,6656,9,3,Yes,4610,Not Loyal,4,C,No,Yes
+Client 423,25,Female,Ukraine,82002,19926,20,3,Yes,17772,Not Loyal,4,A,Yes,No
+Client 424,49,Female,Ukraine,101448,3320,14,0,No,0,Not Loyal,1,C,No,Yes
+Client 425,23,Male,Ukraine,30170,6548,19,5,Yes,6251,Not Loyal,4,C,No,Yes
+Client 426,22,Male,Serbia,71624,27111,15,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 427,49,Female,Serbia,111198,1086,15,0,No,0,Not Loyal,1,C,Yes,Yes
+Client 428,47,Female,Serbia,77588,30231,12,2,Yes,13013,Not Loyal,3,VIP,Yes,Yes
+Client 429,40,Male,Kazakhstan,83080,25552,6,1,Yes,761,Loyal,1,VIP,Yes,Yes
+Client 430,21,Female,Russia,22261,2516,5,1,Yes,1778,Not Loyal,4,C,Yes,No
+Client 431,65,Male,Kazakhstan,117457,11775,20,4,Yes,2654,Loyal,2,B,Yes,No
+Client 432,55,Female,Belarus,119477,4578,17,0,No,0,Not Loyal,1,C,Yes,No
+Client 433,29,Female,Ukraine,51844,23154,3,4,Yes,10594,Not Loyal,3,A,Yes,No
+Client 434,38,Male,Russia,62918,21836,19,2,Yes,6725,Not Loyal,3,A,Yes,Yes
+Client 435,64,Male,Serbia,54442,6955,16,4,Yes,2366,Not Loyal,3,C,No,No
+Client 436,19,Female,Belarus,39780,16664,8,3,Yes,8748,Not Loyal,4,B,No,No
+Client 437,54,Male,Serbia,32933,7830,2,3,Yes,3382,Not Loyal,3,C,No,No
+Client 438,27,Male,Russia,49313,18086,14,3,Yes,3489,Loyal,2,A,Yes,Yes
+Client 439,54,Male,Belarus,71094,32285,14,4,Yes,12428,Not Loyal,3,VIP,Yes,Yes
+Client 440,62,Male,Serbia,31280,19800,8,0,No,0,Loyal,1,A,Yes,Yes
+Client 441,33,Female,Ukraine,86950,3696,1,4,Yes,2577,Not Loyal,4,C,Yes,No
+Client 442,38,Male,Ukraine,71093,14507,19,4,Yes,7717,Not Loyal,4,B,No,No
+Client 443,24,Male,Belarus,95151,3446,17,0,No,0,Not Loyal,1,C,No,No
+Client 444,59,Male,Serbia,75511,26040,19,2,Yes,4496,Loyal,2,VIP,Yes,Yes
+Client 445,63,Male,Serbia,31027,22370,7,1,Yes,931,Loyal,1,A,Yes,Yes
+Client 446,58,Female,Kazakhstan,76640,24666,4,4,Yes,8257,Not Loyal,3,A,Yes,Yes
+Client 447,42,Female,Kazakhstan,51143,9336,11,5,Yes,1728,Loyal,2,C,No,No
+Client 448,24,Female,Serbia,105260,19476,12,3,Yes,12805,Not Loyal,4,A,Yes,Yes
+Client 449,57,Male,Kazakhstan,65343,27572,19,5,Yes,10552,Not Loyal,3,VIP,Yes,Yes
+Client 450,56,Male,Russia,70401,7022,2,0,No,0,Not Loyal,1,C,No,Yes
+Client 451,23,Male,Kazakhstan,79912,15295,20,1,Yes,4905,Not Loyal,3,B,Yes,Yes
+Client 452,32,Female,Ukraine,36496,14080,19,1,Yes,12663,Not Loyal,4,B,Yes,Yes
+Client 453,68,Male,Kazakhstan,21361,8544,4,1,Yes,5939,Not Loyal,4,C,Yes,No
+Client 454,54,Male,Russia,55437,6363,15,5,Yes,4586,Not Loyal,4,C,No,No
+Client 455,35,Female,Russia,29691,30645,4,1,Yes,24343,Not Loyal,4,VIP,Yes,Yes
+Client 456,36,Female,Russia,75801,17501,10,4,Yes,11194,Not Loyal,4,B,No,Yes
+Client 457,19,Female,Belarus,102614,2953,20,1,Yes,997,Not Loyal,3,C,No,Yes
+Client 458,22,Female,Kazakhstan,86113,31489,6,1,Yes,21807,Not Loyal,4,VIP,Yes,Yes
+Client 459,42,Male,Ukraine,71515,28159,11,4,Yes,683,Loyal,1,VIP,Yes,Yes
+Client 460,55,Male,Kazakhstan,75983,20036,18,1,Yes,7540,Not Loyal,3,A,Yes,No
+Client 461,29,Male,Russia,27368,10746,17,0,No,0,Loyal,1,C,Yes,No
+Client 462,38,Female,Russia,99796,32795,1,4,Yes,2205,Not Loyal,1,VIP,Yes,Yes
+Client 463,36,Male,Belarus,116918,28986,6,5,Yes,2624,Loyal,1,VIP,Yes,Yes
+Client 464,61,Male,Ukraine,28264,23034,8,0,No,0,Loyal,1,A,Yes,Yes
+Client 465,38,Male,Belarus,35002,10961,15,4,Yes,7534,Not Loyal,4,C,No,Yes
+Client 466,20,Male,Belarus,68534,27427,15,2,Yes,4532,Loyal,2,VIP,Yes,Yes
+Client 467,19,Female,Belarus,90014,33015,4,1,Yes,26349,Not Loyal,4,VIP,Yes,Yes
+Client 468,57,Female,Russia,85262,6262,13,1,Yes,4099,Not Loyal,4,C,Yes,No
+Client 469,68,Female,Ukraine,44412,32087,13,4,Yes,13739,Not Loyal,3,VIP,Yes,Yes
+Client 470,25,Male,Russia,57327,5117,16,2,Yes,3718,Not Loyal,4,C,Yes,No
+Client 471,46,Female,Serbia,29136,7542,14,5,Yes,2812,Not Loyal,3,C,Yes,Yes
+Client 472,50,Female,Serbia,118732,31723,6,5,Yes,3280,Loyal,2,VIP,Yes,Yes
+Client 473,41,Female,Ukraine,85872,1284,3,3,Yes,1121,Not Loyal,4,C,No,No
+Client 474,43,Female,Russia,86869,8271,17,2,Yes,1889,Loyal,2,C,No,No
+Client 475,19,Male,Ukraine,77998,19935,16,0,No,0,Loyal,1,A,Yes,No
+Client 476,48,Female,Russia,74044,23769,14,2,Yes,9279,Not Loyal,3,A,Yes,Yes
+Client 477,29,Female,Russia,37282,28501,8,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 478,36,Female,Ukraine,35314,34419,19,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 479,70,Female,Kazakhstan,96024,22544,17,5,Yes,18256,Not Loyal,4,A,Yes,No
+Client 480,49,Male,Russia,83313,18287,15,0,No,0,Loyal,1,A,Yes,No
+Client 481,60,Male,Ukraine,118874,19006,14,0,No,0,Loyal,1,A,Yes,No
+Client 482,28,Male,Serbia,40379,27201,19,5,Yes,6065,Loyal,2,VIP,Yes,Yes
+Client 483,49,Female,Kazakhstan,105078,3799,12,2,Yes,1520,Not Loyal,3,C,No,Yes
+Client 484,47,Male,Russia,26823,29072,15,0,No,0,Loyal,1,VIP,Yes,Yes
+Client 485,60,Female,Ukraine,86220,4979,16,4,Yes,1134,Not Loyal,2,C,No,Yes
+Client 486,54,Male,Russia,80317,29844,3,1,Yes,20919,Not Loyal,4,VIP,Yes,Yes
+Client 487,62,Female,Belarus,42675,3804,12,0,No,0,Not Loyal,1,C,Yes,No
+Client 488,68,Female,Serbia,27448,31593,8,5,Yes,20488,Not Loyal,4,VIP,Yes,Yes
+Client 489,67,Male,Russia,29918,26605,15,2,Yes,17160,Not Loyal,4,VIP,Yes,Yes
+Client 490,59,Male,Kazakhstan,103446,3250,3,2,Yes,593,Not Loyal,2,C,Yes,Yes
+Client 491,28,Male,Serbia,113890,13798,7,1,Yes,6299,Not Loyal,3,B,Yes,No
+Client 492,27,Male,Ukraine,20146,32859,7,2,Yes,19386,Not Loyal,4,VIP,Yes,Yes
+Client 493,19,Male,Ukraine,24984,33518,6,3,Yes,32322,Not Loyal,4,VIP,Yes,Yes
+Client 494,18,Female,Ukraine,89087,33357,5,0,No,0,Not Loyal,1,VIP,Yes,Yes
+Client 495,20,Male,Serbia,58112,13541,18,2,Yes,8349,Not Loyal,4,B,No,No
+Client 496,46,Male,Belarus,78076,28225,5,1,Yes,8951,Not Loyal,3,VIP,Yes,Yes
+Client 497,35,Male,Serbia,63798,14118,15,2,Yes,10781,Not Loyal,4,B,Yes,Yes
+Client 498,42,Female,Ukraine,75036,19651,9,3,Yes,623,Loyal,1,A,Yes,No
+Client 499,62,Female,Kazakhstan,33490,8298,1,1,Yes,2608,Not Loyal,3,C,No,Yes
+Client 500,42,Female,Belarus,98089,24701,19,3,Yes,19784,Not Loyal,4,A,Yes,Yes
