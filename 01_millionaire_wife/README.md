@@ -1,12 +1,12 @@
 ## Investigation of a Millionaire's Wife's Expenses
 
-Project Overview
+# Project Overview
 
 This is a fun yet technically solid data analysis project built as a detective-style investigation. The goal? To trace where the money went in the household of a millionaire and his big-spending wife.
 
 The project contains SQL to reveal patterns, anomalies, and suspicious transactions.
 
-## Files Included:
+# Files Included:
 - millionaire_wife_expense_investigation.ipynb — main notebook with full investigation
 
 - millionaire_wife_expenses.csv — detailed list of the wife's expenses
@@ -21,7 +21,7 @@ Key Questions Investigated
 
 The husband has recently noticed strange and unusually expensive purchases in their household bank statements. Concerned and confused, he has turned to us — data detectives — for help.
 
-## Together, we set out to answer:
+# Together, we set out to answer:
 
 - What exactly has the wife been spending money on?
 
