@@ -7,13 +7,13 @@ This is a fun yet technically solid data analysis project built as a detective-s
 The project contains SQL to reveal patterns, anomalies, and suspicious transactions.
 
 Files Included:
-millionaire_wife_expense_investigation.ipynb — main notebook with full investigation
+- millionaire_wife_expense_investigation.ipynb — main notebook with full investigation
 
-millionaire_wife_expenses.csv — detailed list of the wife's expenses
+- millionaire_wife_expenses.csv — detailed list of the wife's expenses
 
-millionaire_husband_income.csv — official income sources of the husband
+- millionaire_husband_income.csv — official income sources of the husband
 
-millionaire_wife_BKS_activity.csv, millionaire_wife_RAIFFEISEN_activity.csv — bank transaction statements from two accounts
+- millionaire_wife_BKS_activity.csv, millionaire_wife_RAIFFEISEN_activity.csv — bank transaction statements from two accounts
 
 Note: Data is fictional and used for educational and portfolio purposes.
 
