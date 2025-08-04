@@ -8,6 +8,11 @@ This case presents a structured analysis of a company's financial performance ba
 - seaborn
 - -matplotlib
 
+## Files Included:
+- Financial_Data_Analysis_Case (1).ipynb
+- financial_sales_data.csv
+
+  
 ## Key Insights
 - The company shows clear seasonality with a revenue peak in May.
 - Despite high revenue in some months, profitability varies significantly.
