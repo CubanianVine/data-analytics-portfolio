@@ -6,7 +6,7 @@ This is a fun yet technically solid data analysis project built as a detective-s
 
 The project contains SQL to reveal patterns, anomalies, and suspicious transactions.
 
-Files Included:
+## Files Included:
 - millionaire_wife_expense_investigation.ipynb — main notebook with full investigation
 
 - millionaire_wife_expenses.csv — detailed list of the wife's expenses
@@ -21,7 +21,7 @@ Key Questions Investigated
 
 The husband has recently noticed strange and unusually expensive purchases in their household bank statements. Concerned and confused, he has turned to us — data detectives — for help.
 
-Together, we set out to answer:
+## Together, we set out to answer:
 
 - What exactly has the wife been spending money on?
 
@@ -31,7 +31,7 @@ Together, we set out to answer:
 
 - Are there any hidden patterns or anomalies in bank transactions?
 
-##Result
+## Result
 Through careful analysis, we uncovered what those mysterious and extravagant purchases were.
 Our investigation helped bring clarity to the husband’s concerns and revealed a detailed picture of where the money was going.
 It turns out that the wife had been transfering money on your own BKS bank account.
