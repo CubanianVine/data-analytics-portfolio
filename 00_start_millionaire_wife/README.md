@@ -13,3 +13,7 @@ This dashboard offers a visualized summary of her transactions across categories
   -Category (luxury, travel, suspicious items)
   -Location (cities, countries)
 - Highlighted anomalies — including multiple “First-class ticket to {destination}” entries that don’t seem to lead anywhere...
+
+## Tools Used
+- Power BI for data visualization - wife spendings vizualization.pbix
+- Original data: wife’s transaction records - millionaire_wife_expenses.csv
