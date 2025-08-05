@@ -10,6 +10,6 @@ This dashboard offers a visualized summary of her transactions across categories
 ## What's inside?
 - Power BI visualizations
 - Spending broken down by:
---Category (luxury, travel, suspicious items)
---Location (cities, countries)
+  -Category (luxury, travel, suspicious items)
+  -Location (cities, countries)
 - Highlighted anomalies — including multiple “First-class ticket to {destination}” entries that don’t seem to lead anywhere...
