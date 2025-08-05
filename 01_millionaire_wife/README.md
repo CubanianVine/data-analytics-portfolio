@@ -1,4 +1,4 @@
-# Investigation of a Millionaire's Wife's Expenses
+# The Mystery of the Millionaire's Wife — Part 2: Investigation
 
 ## Project Overview
 
